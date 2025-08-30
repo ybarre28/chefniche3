@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="52" viewBox="0 0 520 104">
+  <defs>
+    <style>
+      .w { font: 700 44px/1.1 'Inter', system-ui, sans-serif; letter-spacing: .5px; }
+    </style>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <!-- Minimal chef hat icon with N monogram -->
+    <g transform="translate(12,12)">
+      <path d="M40 4c10.5 0 19 8.5 19 19 0 .7 0 1.3-.1 2 5.1 1.8 8.7 6.7 8.7 12.4 0 6.9-5.6 12.5-12.5 12.5H24.9C18 50.9 12.4 45.3 12.4 38.4c0-5.7 3.6-10.6 8.7-12.4-.1-.7-.1-1.3-.1-2C21 12.5 29.5 4 40 4z" fill="#111827"/>
+      <path d="M20 58c0-2.2 1.8-4 4-4h32a4 4 0 010 8H24a4 4 0 01-4-4z" fill="#111827"/>
+      <!-- N inside hat -->
+      <path d="M30 28h6l10 12V28h6v24h-6L36 40v12h-6z" fill="#F59E0B"/>
+    </g>
+    <text class="w" x="120" y="62" fill="#111827">Chef</text>
+    <text class="w" x="262" y="62" fill="#F59E0B">Niche</text>
+  </g>
+</svg>
